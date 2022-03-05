@@ -3,7 +3,7 @@
 <div align='center'>
   Hi there, I'm juhee. Nice to meet you!
 </div>
-
+</br></br>
 <div align='center'>
   <h3> ✍ Studying ✍ </h3>
  
