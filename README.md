@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JuheeKang&fontSize=75)
 
 <div align='center'>
-  Hi there, I'm juhee. Nice to meet you!
+  Hi there, I'm juhee. Nice to meet you!<br />    
+  I'm studying various skills to become a more detailed Front-end Developer.
 </div>
 </br></br>
 <div align='center'>
